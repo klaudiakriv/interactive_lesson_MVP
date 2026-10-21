@@ -54,7 +54,7 @@ The project combines language teaching, content design, hands-on implementation 
 
 ## Run locally
 
-1. [Open the link] (http://htmlpreview.github.io/?https://github.com/klaudiakriv/interactive_lesson_MVP/blob/main/index.html)
+1. [Open the link](http://htmlpreview.github.io/?https://github.com/klaudiakriv/interactive_lesson_MVP/blob/main/index.html)
 
 ## Credits
 
