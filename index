@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Finnish Daily Dialogues</title>
+
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --navy: #02151A;
+      --navy-mid: #1A3A4A;
+      --brand-bg: #CDE1ED;
+      --rule: #A8C8DC;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+      background: var(--brand-bg);
+      color: var(--navy);
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 60px 24px;
+    }
+
+    .intro {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    h1 {
+      font-size: 32px;
+      font-weight: 600;
+      color: var(--navy);
+      margin-bottom: 4px;
+    }
+
+    .subtitle {
+      color: var(--navy-mid);
+      font-size: 14px;
+    }
+
+    .lesson {
+      display: block;
+      padding: 20px;
+      margin-bottom: 16px;
+      border: 0.5px solid var(--rule);
+      border-radius: 12px;
+      background: #fff;
+      text-decoration: none;
+      color: inherit;
+      text-align: left;
+    }
+
+    .lesson:hover {
+      background: #f4f9fb;
+    }
+
+    .lesson-title {
+      font-size: 20px;
+      font-weight: 600;
+      color: var(--navy);
+      margin-bottom: 4px;
+    }
+
+    .lesson-description {
+      color: var(--navy-mid);
+      font-size: 13px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="intro">
+    <h1>Finnish Daily Dialogues</h1>
+    <div class="subtitle">with Ida &amp; Klaudia</div>
+  </div>
+
+  <a class="lesson" href="alkaa vai aloittaa.html">
+    <div class="lesson-title">👽 Alkaa vai aloittaa?</div>
+    <div class="lesson-description">
+      Talking about plans, intentions, and getting things started
+    </div>
+  </a>
+
+</body>
+</html>
